@@ -14,7 +14,7 @@
         "category_name": "Accessories"
       },
       {
-        "name": "Libertad Gold Pendant ",
+        "name": "k",
         "id": 172121,
         "image_url": "//assets.supremenewyork.com/169826/ca/DzdgNRrbWwc.jpg",
         "image_url_hi": "//assets.supremenewyork.com/169826/rc/DzdgNRrbWwc.jpg",
@@ -203,72 +203,83 @@
         "category_name": "Pants"
       }
     ],
-    "Tops/Sweaters": [
+    "Hats": [
       {
-        "name": "Highest Standards Athletic S/S Top",
-        "id": 172318,
-        "image_url": "//assets.supremenewyork.com/167600/ca/ipwF2cF0wlk.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/167600/rc/ipwF2cF0wlk.jpg",
-        "price": 9800,
+        "name": "2-Tone Camp Cap",
+        "id": 172316,
+        "image_url": "//assets.supremenewyork.com/167011/ca/V_Aeb26IIKg.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/167011/rc/V_Aeb26IIKg.jpg",
+        "price": 5400,
         "sale_price": 0,
         "new_item": true,
-        "position": 12,
-        "category_name": "Tops/Sweaters"
+        "position": 25,
+        "category_name": "Hats"
       },
       {
-        "name": "Supreme®/NFL/Raiders/'47 Thermal",
-        "id": 172322,
-        "image_url": "//assets.supremenewyork.com/168870/ca/z4RDk9wAvds.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/168870/rc/z4RDk9wAvds.jpg",
-        "price": 11000,
+        "name": "Side Logo Camp Cap",
+        "id": 172324,
+        "image_url": "//assets.supremenewyork.com/166333/ca/5mIogf20fiM.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/166333/rc/5mIogf20fiM.jpg",
+        "price": 5400,
         "sale_price": 0,
         "new_item": true,
-        "position": 13,
-        "category_name": "Tops/Sweaters"
+        "position": 26,
+        "category_name": "Hats"
       },
       {
-        "name": "Overdyed Tee",
-        "id": 172328,
-        "image_url": "//assets.supremenewyork.com/169519/ca/qXBBijkXWsQ.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/169519/rc/qXBBijkXWsQ.jpg",
+        "name": "Compact Logo Corduroy Crusher",
+        "id": 172320,
+        "image_url": "//assets.supremenewyork.com/166945/ca/pjJXc2_fnu0.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/166945/rc/pjJXc2_fnu0.jpg",
         "price": 5800,
         "sale_price": 0,
         "new_item": true,
-        "position": 14,
-        "category_name": "Tops/Sweaters"
+        "position": 30,
+        "category_name": "Hats"
       },
       {
-        "name": "Textured Pattern Sweater ",
-        "id": 172301,
-        "image_url": "//assets.supremenewyork.com/169283/ca/O2-zUFoNRlc.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/169283/rc/O2-zUFoNRlc.jpg",
-        "price": 15800,
+        "name": "Supreme®/NFL/Raiders/'47 Beanie",
+        "id": 172321,
+        "image_url": "//assets.supremenewyork.com/171823/ca/tzvqhYaJy_A.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/171823/rc/tzvqhYaJy_A.jpg",
+        "price": 3800,
         "sale_price": 0,
-        "new_item": false,
-        "position": 7,
-        "category_name": "Tops/Sweaters"
+        "new_item": true,
+        "position": 31,
+        "category_name": "Hats"
       },
       {
-        "name": "Jacquard Logo Baseball Jersey",
-        "id": 172296,
-        "image_url": "//assets.supremenewyork.com/171716/ca/TrRAXGVxcg0.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/171716/rc/TrRAXGVxcg0.jpg",
-        "price": 11800,
+        "name": "Oval Label 6-Panel",
+        "id": 172310,
+        "image_url": "//assets.supremenewyork.com/168958/ca/Ya1J9eN1wXw.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/168958/rc/Ya1J9eN1wXw.jpg",
+        "price": 4400,
         "sale_price": 0,
         "new_item": false,
-        "position": 15,
-        "category_name": "Tops/Sweaters"
+        "position": 27,
+        "category_name": "Hats"
       },
       {
-        "name": "Grid Jacquard S/S Top",
-        "id": 172261,
-        "image_url": "//assets.supremenewyork.com/168858/ca/31Sd_9SELzI.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/168858/rc/31Sd_9SELzI.jpg",
-        "price": 8800,
+        "name": "Chenille Logo 6-Panel",
+        "id": 172273,
+        "image_url": "//assets.supremenewyork.com/169570/ca/XWwbnJfyL_0.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/169570/rc/XWwbnJfyL_0.jpg",
+        "price": 4800,
         "sale_price": 0,
         "new_item": false,
-        "position": 16,
-        "category_name": "Tops/Sweaters"
+        "position": 28,
+        "category_name": "Hats"
+      },
+      {
+        "name": "Star Pillbox New Era®",
+        "id": 172312,
+        "image_url": "//assets.supremenewyork.com/171717/ca/Ro0oeVmzMT4.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/171717/rc/Ro0oeVmzMT4.jpg",
+        "price": 5800,
+        "sale_price": 0,
+        "new_item": false,
+        "position": 29,
+        "category_name": "Hats"
       }
     ],
     "Shirts": [
@@ -352,83 +363,72 @@
         "category_name": "Jackets"
       }
     ],
-    "Hats": [
+    "Tops/Sweaters": [
       {
-        "name": "2-Tone Camp Cap",
-        "id": 172316,
-        "image_url": "//assets.supremenewyork.com/167011/ca/V_Aeb26IIKg.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/167011/rc/V_Aeb26IIKg.jpg",
-        "price": 5400,
+        "name": "Highest Standards Athletic S/S Top",
+        "id": 172318,
+        "image_url": "//assets.supremenewyork.com/167600/ca/ipwF2cF0wlk.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/167600/rc/ipwF2cF0wlk.jpg",
+        "price": 9800,
         "sale_price": 0,
         "new_item": true,
-        "position": 25,
-        "category_name": "Hats"
+        "position": 12,
+        "category_name": "Tops/Sweaters"
       },
       {
-        "name": "Side Logo Camp Cap",
-        "id": 172324,
-        "image_url": "//assets.supremenewyork.com/166333/ca/5mIogf20fiM.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/166333/rc/5mIogf20fiM.jpg",
-        "price": 5400,
+        "name": "Supreme®/NFL/Raiders/'47 Thermal",
+        "id": 172322,
+        "image_url": "//assets.supremenewyork.com/168870/ca/z4RDk9wAvds.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/168870/rc/z4RDk9wAvds.jpg",
+        "price": 11000,
         "sale_price": 0,
         "new_item": true,
-        "position": 26,
-        "category_name": "Hats"
+        "position": 13,
+        "category_name": "Tops/Sweaters"
       },
       {
-        "name": "Compact Logo Corduroy Crusher",
-        "id": 172320,
-        "image_url": "//assets.supremenewyork.com/166945/ca/pjJXc2_fnu0.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/166945/rc/pjJXc2_fnu0.jpg",
+        "name": "Overdyed Tee",
+        "id": 172328,
+        "image_url": "//assets.supremenewyork.com/169519/ca/qXBBijkXWsQ.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/169519/rc/qXBBijkXWsQ.jpg",
         "price": 5800,
         "sale_price": 0,
         "new_item": true,
-        "position": 30,
-        "category_name": "Hats"
+        "position": 14,
+        "category_name": "Tops/Sweaters"
       },
       {
-        "name": "Supreme®/NFL/Raiders/'47 Beanie",
-        "id": 172321,
-        "image_url": "//assets.supremenewyork.com/171823/ca/tzvqhYaJy_A.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/171823/rc/tzvqhYaJy_A.jpg",
-        "price": 3800,
-        "sale_price": 0,
-        "new_item": true,
-        "position": 31,
-        "category_name": "Hats"
-      },
-      {
-        "name": "Oval Label 6-Panel",
-        "id": 172310,
-        "image_url": "//assets.supremenewyork.com/168958/ca/Ya1J9eN1wXw.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/168958/rc/Ya1J9eN1wXw.jpg",
-        "price": 4400,
+        "name": "Textured Pattern Sweater ",
+        "id": 172301,
+        "image_url": "//assets.supremenewyork.com/169283/ca/O2-zUFoNRlc.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/169283/rc/O2-zUFoNRlc.jpg",
+        "price": 15800,
         "sale_price": 0,
         "new_item": false,
-        "position": 27,
-        "category_name": "Hats"
+        "position": 7,
+        "category_name": "Tops/Sweaters"
       },
       {
-        "name": "Chenille Logo 6-Panel",
-        "id": 172273,
-        "image_url": "//assets.supremenewyork.com/169570/ca/XWwbnJfyL_0.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/169570/rc/XWwbnJfyL_0.jpg",
-        "price": 4800,
+        "name": "Jacquard Logo Baseball Jersey",
+        "id": 172296,
+        "image_url": "//assets.supremenewyork.com/171716/ca/TrRAXGVxcg0.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/171716/rc/TrRAXGVxcg0.jpg",
+        "price": 11800,
         "sale_price": 0,
         "new_item": false,
-        "position": 28,
-        "category_name": "Hats"
+        "position": 15,
+        "category_name": "Tops/Sweaters"
       },
       {
-        "name": "Star Pillbox New Era®",
-        "id": 172312,
-        "image_url": "//assets.supremenewyork.com/171717/ca/Ro0oeVmzMT4.jpg",
-        "image_url_hi": "//assets.supremenewyork.com/171717/rc/Ro0oeVmzMT4.jpg",
-        "price": 5800,
+        "name": "Grid Jacquard S/S Top",
+        "id": 172261,
+        "image_url": "//assets.supremenewyork.com/168858/ca/31Sd_9SELzI.jpg",
+        "image_url_hi": "//assets.supremenewyork.com/168858/rc/31Sd_9SELzI.jpg",
+        "price": 8800,
         "sale_price": 0,
         "new_item": false,
-        "position": 29,
-        "category_name": "Hats"
+        "position": 16,
+        "category_name": "Tops/Sweaters"
       }
     ],
     "Sweatshirts": [
